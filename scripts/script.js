@@ -13,7 +13,7 @@ new Vue({
           name: "Tu Hain Toh Main Hoon",
           artist: "Sky Force",
           cover: "img/img-1.jpeg",
-          source: "mp3/music-1.mp3",
+          source: "music-1.mp3",
           url: "https://youtu.be/CKJA9blyMUg?si=I6vtAbh6xDzxl131",
           favorited: false
         },
@@ -21,7 +21,7 @@ new Vue({
           name: "Tu Har Lamha ",
           artist: "Tu Har Lamha",
           cover: "img/img-2.jpeg",
-          source: "mp3/music-2.mp3",
+          source: "music-2.mp3",
           url: "https://youtu.be/SdGL0qxgZGM?si=2766uLfKJZXv9asr",
           favorited: true
         },
@@ -30,7 +30,7 @@ new Vue({
           name: "Chaahat",
           artist: "Blood Money",
           cover: "img/img-3.jpeg",
-          source: "mp3/music-3.mp3",
+          source: "music-3.mp3",
           url: "https://youtu.be/10azSRvOv_E?si=5F_cEqE8xV-5gK5s",
           favorited: false
         },
@@ -39,7 +39,7 @@ new Vue({
           name: "Raanjhan",
           artist: "Do Patti",
           cover: "img/img-4.jpeg",
-          source: "mp3/music-4.mp3",
+          source: "music-4.mp3",
           url: "https://youtu.be/lBvbNxiVmZA?si=izF_2-EM749OqstT",
           favorited: false
         },
@@ -47,7 +47,7 @@ new Vue({
           name: "Teri Deewani",
           artist: "Kailash Kher",
           cover: "img/img-5.jpeg",
-          source: "mp3/music-5.mp3",
+          source: "music-5.mp3",
           url: "https://youtu.be/zZasH6qkn8M?si=-0Cwnzic7VjRrQg7",
           favorited: true
         },
@@ -55,7 +55,7 @@ new Vue({
           name: "Mere liye",
           artist: "Broken",
           cover: "img/img-6.jpeg",
-          source: "mp3/music-6.mp3",
+          source: "music-6.mp3",
           url: "https://youtu.be/rhP7QSWYY8c?si=e16s6g2z2XS-XCPH",
           favorited: false
         },
@@ -63,7 +63,7 @@ new Vue({
           name: "Sahiba",
           artist: "Aditya Rikhari",
           cover: "img/img-7.jpeg",
-          source: "mp3/music-7.mp3",
+          source: "music-7.mp3",
           url: "https://youtu.be/n2dVFdqMYGA?si=OeKujMxw2-tJUIId",
           favorited: true
         },
@@ -71,7 +71,7 @@ new Vue({
           name: "Angaaroon",
           artist: "pushpa-2",
           cover: "img/img-8.jpeg",
-          source: "mp3/music-8.mp3",
+          source: "music-8.mp3",
           url: "https://youtu.be/0DVAM48BhQU?si=918NobaA07FJG7oZ",
           favorited: false
         },
@@ -79,7 +79,7 @@ new Vue({
           name: "Ishq Hai",
           artist: "Anurag Saikia",
           cover: "img/img-9.jpeg",
-          source: "mp3/music-9.mp3",
+          source: "music-9.mp3",
           url: "https://youtu.be/BcSejVIxB0E?si=PS2CqzVXjuPbE5H7",
           favorited: false
         },
@@ -87,7 +87,7 @@ new Vue({
           name: "Shiddat - TitleTrack",
           artist: "Shiddat",
           cover: "img/img-10.jpeg",
-          source: "mp3/music-10.mp3",
+          source: "music-10.mp3",
           url: "https://youtu.be/iSo9l950QLo?si=KCXB25I_ZhL6cKj3",
           favorited: false
         }
